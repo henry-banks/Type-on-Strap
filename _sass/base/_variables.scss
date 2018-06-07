@@ -32,10 +32,10 @@ $header-link-color: #57A64A;
 $navbar-separator-opacity: 0;
 
 // Feature image for articles
-$feature-image-text-color: #fff;
+$feature-image-text-color: #DCDCDC;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 // Header description box
-$header-desc-background-color: $2D2D30;
+$header-desc-background-color: #1E1E1E;
 $header-desc-text-color: #DCDCDC;
 
 // Mobile display
@@ -52,8 +52,8 @@ $border-radius: 4px !default;
 
 
 // base16 Material Theme
-$base00: #263238 !default;  // Default Background
-$base01: #2E3C43 !default;  // Lighter Background (Used for status bars)
+$base00: #1E1E1E !default;  // Default Background
+$base01: #3E3E42 !default;  // Lighter Background (Used for status bars)
 $base02: #314549 !default;  // Selection Background
 $base03: #546E7A !default;  // Comments, Invisibles, Line Highlighting
 $base04: #B2CCD6 !default;  // Dark Foreground (Used for status bars)

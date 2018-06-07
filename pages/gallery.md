@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: draft
 title: Gallery
 subtitle: From the pexels folder
 gallery_path: "assets/img/pexels"

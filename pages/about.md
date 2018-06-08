@@ -1,14 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Test]
+tags: [About, Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I am HENRY BANKS, a GAME DEVELOPER from in SEATTLE, WA.  
+I have alternated between gameplay programmer and game designer for several years, working on everything from a
+[clockpunk hack-and-slash](https://hbanks.itch.io/descent) to a [robot boxing game](https://hbanks.itch.io/junkbots) to a [physics-puzzle game about explosions](https://github.com/henry-banks/Explosive).
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+I am a long-time UNREAL ENGINE 4 developer, but lately I've been doing more and more stuff in UNITY.  
+In many circles, I go by **MRSHMID** or **SHMIDDY** **MCSHMIDDINGTON**.  If you're not sure it's me, look for the weird Bionicle blade avatar.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+If you like what you see and want me on your team, then you're in luck as I am **currently looking for jobs**.  
+Send me an [EMAIL](mailto:hbanks410@gmail.com) or message me on [TWITTER](https://twitter.com/McShmiddington) or [LINKEDIN](https://www.linkedin.com/in/henry-banks/) for inquiries. (Or just to say hi!)

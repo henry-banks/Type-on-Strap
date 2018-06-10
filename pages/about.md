@@ -6,7 +6,7 @@ tags: [About, Page]
 ---
 
 I am HENRY BANKS, a GAME DEVELOPER from in SEATTLE, WA.  
-I have alternated between gameplay programmer and game designer for several years, working on everything from a
+I am a gameplay programmer and game designer who has worked on everything from a
 [clockpunk hack-and-slash](https://hbanks.itch.io/descent) to a [robot boxing game](https://hbanks.itch.io/junkbots) to a [physics-puzzle game about explosions](https://github.com/henry-banks/Explosive).
 
 I am a long-time UNREAL ENGINE 4 developer, but lately I've been doing more and more stuff in UNITY.  

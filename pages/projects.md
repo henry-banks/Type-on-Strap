@@ -7,7 +7,6 @@ tags: [Projects, Page]
 
 Here's all the stuff I've done.  
 Most stuff I do has been published on [itch.io](https:\\hbanks.itch.io)
----
 ***
 
 ## Explosive (In-Development)
@@ -20,7 +19,6 @@ Coming to Android and PC.
 
 **[GitHub](https://github.com/henry-banks/Explosive)**
 
----
 ***
 
 ## [Descent](https://hbanks.itch.io/descent)
@@ -33,7 +31,6 @@ Developed by a team of 6 in 2.5 months.
 
 **[itch.io](https://hbanks.itch.io/descent) · [GitLab](https://gitlab.com/mrshmid/aieteamred)**
 
----
 ***
 
 ## [JunkBots](https://hbanks.itch.io/junkbots)

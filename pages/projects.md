@@ -7,10 +7,11 @@ tags: [Projects, Page]
 
 Here's all the stuff I've done.  
 Most stuff I do has been published on [itch.io](https:\\hbanks.itch.io)
+
 ***
 
 ## Explosive (In-Development)
----
+
 #### Sole Developer
 #### 2018?
 
@@ -21,8 +22,9 @@ Coming to Android and PC.
 
 ***
 
+
 ## [Descent](https://hbanks.itch.io/descent)
----
+
 #### Producer, AI Programmer, Level Designer
 #### 2018
 
@@ -33,8 +35,9 @@ Developed by a team of 6 in 2.5 months.
 
 ***
 
+
 ## [JunkBots](https://hbanks.itch.io/junkbots)
----
+
 #### Gameplay Programmer, Build Master
 #### 2017
 
